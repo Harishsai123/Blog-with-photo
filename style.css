@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+div {
+    margin-top: 15px;
+    
+}
+
+.Image-section{
+    display: flex;
+    justify-content: center;
+}
+
+.section-style{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
